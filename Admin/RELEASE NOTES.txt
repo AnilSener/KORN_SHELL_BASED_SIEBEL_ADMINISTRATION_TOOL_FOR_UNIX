@@ -1,8 +1,8 @@
 #### RELEASE NOTES FOR SIEBEL ADMINISTRATION TOOL SOLARIS ####
 Application version: 0.2
 Delivery Date:06/06/2013
-Developed by: NTT DATA Turkey, Anýl Þener, Onur Gurhan Ozguven
-Support for defects and Q&A: anil.sener@nttdata.com
+Developed by: Anil Sener
+Support for defects and Q&A: anil_sener@yahoo.com
 
 Brief information: This is an introductory version which covers only Deployment functionalities.
 ATTENTION!!!: This application is tested as unit by unit. Please BE CAUTIOUS before testing in critical environments like 
