@@ -1,0 +1,23 @@
+<?xml version= "1.0"?>
+
+<menu>
+<mainheader>Siebel Administration Tool for Solaris</mainheader>
+<menuitem>
+	<level>1</level>
+	<id>1</id>
+	<name>Siebel Deployment</name>
+	<menuheader>Siebel Deployment Options</menuheader>
+</menuitem>
+<menuitem>
+	<level>1</level>
+	<id>2</id>
+	<name>Siebel Monitoring</name>
+	<menuheader>Siebel Monitoring Options</menuheader>
+</menuitem>
+<menuitem>	
+	<level>1</level>	
+	<id>3</id>
+	<name>Siebel Backup and Restore</name>
+	<menuheader>Siebel Backup and Restore Options</menuheader>
+</menuitem>
+</menu>

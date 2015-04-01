@@ -1,0 +1,23 @@
+<?xml version= "1.0"?>
+
+<menu>
+<mainheader>Strumento Del Amministrazione Di Siebel per Solaris</mainheader>
+<menuitem>
+	<level>1</level>
+	<id>1</id>
+	<name>Spiegamento di Siebel</name>
+	<menuheader>Opzioni di Spiegamento di Siebel</menuheader>
+</menuitem>
+<menuitem>
+	<level>1</level>
+	<id>2</id>
+	<name>Monitoraggio di Siebel</name>
+	<menuheader>Opzioni di Monitoraggio di Siebel</menuheader>
+</menuitem>
+<menuitem>	
+	<level>1</level>	
+	<id>3</id>
+	<name>Riservazione e Restutuire di Siebel</name>
+	<menuheader>Opzione di Riservazione e Restutuire di Siebel</menuheader>
+</menuitem>
+</menu>

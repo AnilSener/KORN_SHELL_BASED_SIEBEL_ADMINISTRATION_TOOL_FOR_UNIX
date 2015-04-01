@@ -1,0 +1,35 @@
+<?xml version= "1.0"?>
+
+<menu>
+<mainheader>Siebel Deployment Options</mainheader>
+		<menuitem>
+			<level>1</level>	
+			<id>1</id>
+			<name>Veri Havuzu Yukleme</name>
+			<menuheader>Siebel Veri Havuzu Yuklemesine Hosgeldiniz</menuheader>		
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>2</id>
+			<name>SRF Yukleme</name>
+			<menuheader>Siebel SRF Yuklemesine Hosgeldiniz</menuheader>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>3</id>
+			<name>Gezgin Scriptleri Yuklemesi</name>
+			<menuheader>Gezgin Scriptleri Yuklemesine Hosgeldiniz</menuheader>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>4</id>
+			<name>Veri Havuzu Disa Aktarma</name>
+			<menuheader>Veri Havuzu Disa Aktarmaya Hosgeldiniz</menuheader>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>5</id>
+			<name>Ontanimli Yukleme</name>
+			<menuheader>Ontanimli Yuklemeye Hosgeldiniz</menuheader>
+		</menuitem>
+</menu>

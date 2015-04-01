@@ -1,0 +1,41 @@
+<?xml version= "1.0"?>
+<menu>
+<mainheader>Siebel Monitoring Options</mainheader>
+		<menuitem>
+			<level>1</level>
+			<id>1</id>
+			<name>Siebel Web Sunucularini Izleme</name>
+			<menuheader>Siebel Web Sunucularini Izlemeye Hosgeldiniz</menuheader>		
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>2</id>
+			<name>Siebel Uygulama Sunucularini Izleme</name>
+			<menuheader>Siebel Uygulama Sunucularini Izlemeye Hosgeldiniz</menuheader>	
+				<menuitem>
+					<level>2</level>
+					<id>1</id>
+					<name>Test Menu</name>
+					<menuheader>Test Menu Header</menuheader>
+					<menuitem>
+						<level>3</level>
+						<id>1</id>
+						<name>Test Another Menu</name>
+						<menuheader>Test Another Menu Header</menuheader>
+					</menuitem>
+				</menuitem>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>3</id>
+			<name>Siebel Veritabani Sunucularini Izleme</name>
+			<menuheader>Siebel Veritabani Sunucularini Izlemeye Hosgeldiniz</menuheader>
+				<menuitem>
+					<level>2</level>
+					<id>1</id>
+					<name>Test DB Menu</name>
+					<menuheader>Test DB Menu Header</menuheader>
+				</menuitem>
+
+		</menuitem>	
+</menu>

@@ -1,0 +1,35 @@
+<?xml version= "1.0"?>
+
+<menu>
+<mainheader>Siebel Deployment Options</mainheader>
+		<menuitem>
+			<level>1</level>	
+			<id>1</id>
+			<name>Repository Deployment</name>
+			<menuheader>Welcome to Siebel Repository Deployment</menuheader>		
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>2</id>
+			<name>SRF Deployment</name>
+			<menuheader>Welcome to Siebel SRF Deployment</menuheader>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>3</id>
+			<name>Browser Script Deployment</name>
+			<menuheader>Welcome to Browser Script Deployment</menuheader>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>4</id>
+			<name>Repository Exporting</name>
+			<menuheader>Welcome to Repository Exporting</menuheader>
+		</menuitem>
+		<menuitem>
+			<level>1</level>
+			<id>5</id>
+			<name>Predefined Deployment</name>
+			<menuheader>Welcome to Predefined Deployment</menuheader>		
+		</menuitem>
+</menu>

@@ -1,0 +1,45 @@
+#### RELEASE NOTES FOR SIEBEL ADMINISTRATION TOOL SOLARIS ####
+Application version: 0.2
+Delivery Date:06/06/2013
+Developed by: NTT DATA Turkey, Anýl Þener, Onur Gurhan Ozguven
+Support for defects and Q&A: anil.sener@nttdata.com
+
+Brief information: This is an introductory version which covers only Deployment functionalities.
+ATTENTION!!!: This application is tested as unit by unit. Please BE CAUTIOUS before testing in critical environments like 
+production or preprod environment.
+
+Audience:
+1-Siebel System Administrators
+2-Siebel Developers
+
+Deployment & Execution:
+
+1-Please login to systems with siebel owner OS user
+2-Please deploy the directory to an Solaris Application server where also a DB server is installed 
+3-Fill the settings in the init_param.cfg file according to your environment. Please do not touch <BASE DIRECTORY> 
+values which will be automatically retrieving application base directory during each application initialization.
+4-run "start.ksh" in korn shell (ksh).
+For example:
+$ksh
+$cd <Siebel Admin Tool dir>
+$. ./start.ksh
+Execution Environment:
+Current edition is developed to be executed in Solaris 9/10/11 environment and Oracle 10/11g EE DB. 
+However there may be other editions in future to support the other OS and DBMS.
+
+Restrictions:
+
+1- It is not possible to deploy more than one SRF per language in this edition. Multiple SRF per language is planned for further releases.
+2- Automatic Server Start and Stop functionalities are dependent on the enablement of RSA functionality in between Enterprise and Gateway servers.
+Please contact with your unix system administrators to enable this funtionality and please set a single siebel owner user and password for the 
+Siebel Enterprise Servers.
+3- Language translation is still continuing, however application is currently supporting multi language mode for the menus.
+4- Application configurations are to be manually set in this version before exectuion, in futher versions they will be automatically retrieved or
+prompted in the initial setup.
+5-Please execute start.sh only in the Admin Application based directory (Multiple directory execution will be handled in the next release)
+6-Currently Tested only in Solaris environment and totally functional Oracle DBMS
+
+
+Known Errors:
+
+1- Wrong parent menu can be displayed while navigating back to parent menus from the low level menus.

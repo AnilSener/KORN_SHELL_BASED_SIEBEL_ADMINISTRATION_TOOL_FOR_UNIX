@@ -1,0 +1,23 @@
+<?xml version= "1.0"?>
+
+<menu>
+<mainheader>Siebel Sistem Yonetimi (Solaris)</mainheader>
+<menuitem>
+	<level>1</level>
+	<id>1</id>
+	<name>Siebel Paket Yukleme</name>
+	<menuheader>Siebel Paket Yukeleme Secenekleri</menuheader>
+</menuitem>
+<menuitem>
+	<level>1</level>
+	<id>2</id>
+	<name>Siebel Izleme</name>
+	<menuheader>Siebel Izleme Secenekleri</menuheader>
+</menuitem>
+<menuitem>	
+	<level>1</level>	
+	<id>3</id>
+	<name>Siebel Yedekleme ve Kurtarma</name>
+	<menuheader>Siebel Yedekleme ve Kurtarma Secenekleri</menuheader>
+</menuitem>
+</menu>
